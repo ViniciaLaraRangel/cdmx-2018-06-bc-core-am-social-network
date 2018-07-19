@@ -1,5 +1,3 @@
-# Creando una Red Social
-
 ## Introducción
 
 Tercer proyecto del common core durante el Bootcamp de la 6ta Generación de Laboratoria: **Social Network.**
