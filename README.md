@@ -1,5 +1,3 @@
-# Creando una Red Social
-
 ## Introducción
 
 Tercer proyecto del common core durante el Bootcamp de la 6ta Generación de Laboratoria: **Social Network.**
@@ -14,7 +12,7 @@ El desarrollo será ágil, durante tres (3) sprints y en trío de programadoras.
 
 **[Análisis argumentativo de la elección de la red social]**
 
-Las redes sociales son estructuras sociales; tienen como finalidad principal poner en contacto a las personas, de tal forma que a través de la interfaz se lleve a cabo la comunicación de forma sencilla y rápida, facilitando la interacción entre todos los usuarios, ya sea compartiendo, contactando o facilitando información de interés para el otro usuario.
+Las redes sociales son estructuras sociales; tienen como finalidad principal poner en contacto a personas, de tal forma que a través de la interfaz se lleve a cabo la comunicación de forma sencilla y rápida, facilitando la interacción entre todos los usuarios, ya sea compartiendo, contactando o facilitando información de interés para el otro usuario.
 
 Fomentan la posibilidad de que los usuarios contactados online, logren un contacto real, del que muy probablemente nacerán nuevas relaciones sociales y/o comerciales gracias a la reducción de distancias y tiempos por lo cual la satisfacción de ciertas necesidades pueden cubrirse rápidamente.
 
@@ -56,7 +54,7 @@ Posteriormente, creamos una [encuesta] (https://docs.google.com/forms/d/e/1FAIpQ
 
 Todas aquellas personas residentes de la **CDMX**, que llevan un estilo de vida urbano, práctico y en constante movimiento, buscando alternativas y que **tienen necesidad de crear contenido continuamente** para atraer la atención de las personas a su alrededor y **compartir experiencias**, a través de fotografías o reseñas.
 
-**[¿Qué problema resuelve el producto para estos usuarios?]**
+**[Qué problema resuelve el producto para estos usuarios]**
 
 El producto resolverá principalmente:
 
@@ -68,20 +66,20 @@ El producto resolverá principalmente:
 
 *	Necesidad de reconocimiento, al poder compartir nuevos descubrimientos de lugares y poder compartir imágenes. 
 
-**[¿Cuáles son los objetivos de estos usuarios en relación con el producto?]**
+**[Cuáles son los objetivos de estos usuarios en relación con el producto]**
 
 Descubrimiento de nuevas opciones para satisfacer la necesidad de alimentación de forma rápida, promueve la economía del productor mexicano y crea nuevas alternativas para fomentar las relaciones entre amigos y/o compartir el descubrimiento de nuevas experiencias. 
 
-**[¿Cuáles son las principales funcionalidades del producto y cuál es su prioridad?]**
+**[Cuáles son las principales funcionalidades del producto y cuál es su prioridad]**
 
 Aquí las Historias de Usuario
 
-**[¿Cómo verificaste que el producto les está resolviendo sus problemas?]**
+**[Cómo verificaste que el producto les está resolviendo sus problemas]**
 
 * Testear la interfaz con usuarios y comprobar que la marca genera confiabilidad y lealtad.
 **DESARROLLAR BRANDING.**
 
-**[¿Cómo te asegurarás que estos usuarios usen este producto?]**
+**[Cómo te asegurarás que estos usuarios usen este producto]**
 
 1.	Test de usabilidad de la interfaz.
 
@@ -91,12 +89,12 @@ Aquí las Historias de Usuario
 3.	Publicidad por medio de stickers con los productores en sus negocios que envíen un mensaje claro: *“Nos estamos renovando”*, *“Tengo acceso a un perfil público para interactuar socialmente”*, *“Pronto tendré página web, ¡espérala!”*.
 
 ### 1.1 Herramientas de análisis de mercado.
-**[Idea general: ¿Qué queremos hacer? ¿Por qué y para qué lo queremos hacer? Incluye el problema y la solución que le estamos dando.
+**[Idea general: Qué queremos hacer? Por qué y para qué lo queremos hacer? Incluye el problema y la solución que le estamos dando.
 Arquetipo de usuario.
 Pensar en qué contexto el usuario va a usar la red?
 Por qué la usará? Motivaciones del usuario]**
 
-1. Benchmark
+1. Benchmarks
 
 2. Encuesta
 
@@ -183,48 +181,3 @@ Para probar la plataforma actual, se debe contar con acceso a internet e ingresa
 [Aquí las ligas para direccionar a nuestros GitHub]
 
 Palmidia Garay
-
-## Checklist
-
-### General
-
-* [ ] Producto final sigue los lineamientos del diseño.
-
-### `README.md`
-
-* [ ] Definición del producto.
-* [ ] Benchamark de las principales redes sociales.
-* [ ] Resumen de entrevistas con usuarios.
-* [ ] Link/screenshots prototipo de alta fidelidad.
-* [ ] Conclusiones de pruebas del prototipo con usuarios.
-* [ ] Conclusiones de pruebas con el producto en HTML.
-
-### Pruebas / tests
-
-* [ ] Tests unitarios cubren un mínimo del 70% de statements, functions, lines,
-  y branches.
-* [ ] Pasa tests (y linters) (`yarn test`).
-
-### Creación de cuenta (sign up)
-
-* [ ] Permite crear cuenta.
-* [ ] Valida email.
-* [ ] Valida password.
-* [ ] Muestra mensajes de error.
-
-### Inicio de sesión (sign in)
-
-* [ ] Permite iniciar sesión.
-* [ ] Valida email.
-* [ ] Valida password.
-* [ ] Muestra mensajes de error.
-
-### Muro (wall/feed)
-
-* [ ] Muestra _muro_.
-* [ ] Permite publicar nuevos posts.
-* [ ] Permite eliminar posts.
-* [ ] Pide confirmación antes de borrar posts.
-* [ ] Permite editar posts (in place).
-* [ ] Permite filtrar posts por público/amigos.
-* [ ] Permite marcar posts como _gustados_ (like).
